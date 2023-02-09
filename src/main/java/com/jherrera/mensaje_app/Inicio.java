@@ -33,7 +33,7 @@ public class Inicio {
                 case 4:
                     MensajeService.editarMensaje();
                     break;
-                case 5:1
+                case 5:
                     break;
                 default:
                     break;
